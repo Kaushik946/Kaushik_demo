@@ -1,2 +1,5 @@
 # Kaushik_demo
-this ts my first github repository
+this ts my first git repository
+<br>
+by - Kaushik
+
